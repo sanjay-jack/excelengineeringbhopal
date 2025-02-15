@@ -1,0 +1,109 @@
+
+@media (max-width: 1599px) {
+
+}
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 959px) {
+.m-responsive{ width:100% !important;}
+}
+@media (max-width: 639px) {
+
+}
+
+@media (max-width: 480px) {
+  .franchise-img-right {
+    margin-bottom: 35px;
+    width: 100%;}
+  .franchise-form-heading-one{
+    text-align:center;
+    font-size: 1.75rem;
+    }    
+ .franchise-form-heading-two{
+    text-align:center;
+    padding:0 10px;
+    font-size: 1rem;
+    }    
+}
+@media (max-width: 639px) {
+
+}
+@media (max-width: 360px) {
+	p{text-align:justify;}
+	.banner {
+    margin-top: 58px;
+}
+.carousel{height:auto;}
+.banner .carousel-caption ul {
+    float: right;
+    margin-top: 2%;
+}
+.carousel-caption{width:100% !important; margin-left:0; display:none !important;}
+.carousel-item, .active {
+    height: auto;
+}
+.banner .carousel-caption{ height: auto;}
+.carousel-inner{ height: auto;}
+.header-container .header-content .trapeze-bg{left:-28%; width:80%;}
+.header-container .header-content .trapeze-bg1{right:-28%; width:80%;}
+#section-service h1, #section-service1 h1{font-size:18px;}
+.header-container .header-content .title-text{top:102px;}
+#section-service, #section-service1{background-size:cover;}
+.header-container .header-content .title-text1 {
+    color: #fff;
+    left: 43%;
+    padding: 0 7.5rem 0 0;
+    top: 119px;
+}
+.page-content{padding:50px 10px;}
+.footer-copyright p{text-align:center;}
+.carousel-control.left, .carousel-control.right{width:-moz-available;}
+.section {
+    margin-bottom: 5px;
+}
+h3{font-size:27px;}
+.card-text{text-align:justify;}
+.member-content .details::before{display:none;}
+.member-content .details{padding:5px;}
+.inner-breadcum, .breadcum {width:100%; text-align:center;}
+.page-title.background-title{margin-top: 59px; padding: 40px 0;}
+.product #carouselExampleIndicators .carousel-indicators{top: 100%;}
+.offset-xs-2{display:none;}
+.ih-item.circle{margin:5px auto;}
+.v-middle {
+    display: table;
+    height: 245px;
+    vertical-align: middle;
+    width: 100%;
+	padding-bottom:20px;
+}
+.v-middle h2{font-size:30px;}
+.post-parallax .dark-overlay{width:100%; height:100%;}
+.page-content{padding:0;}
+.post-parallax iframe{height: 208px;
+    width: 100%;
+    margin-top: -100px;}
+
+.page-title.background-title5{margin-top: 59px; padding: 40px 0;}
+.col-lg-5 img{width:100%; text-align:center;}
+.offset-xs-3{margin-left:0;}
+
+.page-title.background-title2{margin-top: 59px; padding: 40px 0;}
+.page-title.background-title1{margin-top: 59px; padding: 40px 0;}
+.col-md-4{text-align:center;}
+.page-title.background-title4{margin-top: 59px; padding: 40px 0;}
+
+.categories ul li{width:100%; padding:5px; margin:0;}
+.solar-app .gallery_product{height:66px;}
+
+.page-title.background-title3{margin-top: 59px; padding: 40px 0;}
+
+.process img{width:100%; text-align:center;}
+.offset-xs-4{margin-left:0;}
+.contact div.tab button{width:100%;}
+.milestone{background:none;}
+
+}
